@@ -34,8 +34,9 @@ Out of 1,470 employees, 237 have left - a 16% attrition rate. Attrition isn't ev
 
 # Recommendations
 
-- R&D and the Laboratory Technician role are the two largest concentration points — any retention action targets these first.
-- The 25–34 age band is the largest attrition segment — retention focus belongs here over any other age group.
-- Satisfaction and WLB scores among leavers skew mid-to-high, not low — dissatisfaction alone doesn't explain the pattern shown.
-- Overtime is roughly split (54/46) among leavers — the dashboard doesn't show it as a dominant factor.
-- Bachelor's-degree holders and male employees make up the largest shares of attrition by their respective categories.
+- Launch a retention review in R&D, specifically the Laboratory Technician role. This is where attrition is concentrated — 133 exits from R&D, 62 from Lab Technicians alone. Start exit interviews and manager check-ins here before anywhere else.
+- Build a targeted retention plan for employees aged 25–34. This group makes up 47% of all attrition. Management should review career progression speed, promotion timelines, and pay growth for this band specifically — not company-wide.
+- Don't fund a work-life-balance or satisfaction initiative as the fix. The data shows leavers actually reported mid-to-high WLB (54% at level 3) and fairly even satisfaction scores. Spending on "improve morale" programs would be solving the wrong problem based on this dashboard.
+- Don't treat overtime as a retention lever. It's a near-even split (54% no overtime vs 46% overtime) among leavers, so removing overtime or capping hours isn't shown to move the number.
+- Review compensation and growth paths for Bachelor's-degree holders, since they're the largest single education group among leavers — check if they're plateauing in pay or role level faster than other education tiers.
+- Set a target to bring department attrition share down — R&D and Sales combined account for 94% of exits. Management should set a specific reduction goal for these two departments and track it monthly against the 16% company baseline.

@@ -1,4 +1,4 @@
-# Employee Attrition Dashboard
+# EMPLOYEE ATTRITION DASHBOARD
 The goal is to analyze historical employment data to identify trends and patterns then make recommendations to Management.
 
 # Problem Statement
@@ -10,7 +10,7 @@ Out of 1,470 employees, 237 have left - a 16% attrition rate. Attrition isn't ev
 3. Give leadership a segmented view of who is leaving, not just how many.
 
 ## VISUALIZATION
-![](EMPLOYEE ATTRITION.png)
+![](EMPLOYEEATTDASHBOARD.jpg)  
 
 # Insights with KPIs
 
